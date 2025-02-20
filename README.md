@@ -1,6 +1,6 @@
 # Sales-Forcasting
 This just for storage or sharing purpose not for active development
-/n Explaining Code in this video - [![Watch Video](https://img.shields.io/badge/Google%20Drive-Video-blue?logo=google-drive)](https://drive.google.com/file/d/1HOs4LDd5Psc-YddqUwjgaP4RPwaXznzw/view?usp=drive_link)
+<br> Explaining Code in this video - [![Watch Video](https://img.shields.io/badge/Google%20Drive-Video-blue?logo=google-drive)](https://drive.google.com/file/d/1HOs4LDd5Psc-YddqUwjgaP4RPwaXznzw/view?usp=drive_link)
 
 
 
